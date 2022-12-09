@@ -12,4 +12,4 @@ print ("It's a palindrome!") if original == original[::-1] else print("No palind
 # if original == original[::-1]:
 #     print("It's a palindrome!")
 # else:
-#     print("No palindrome here folks!")
+#     print("No palindrome here ya'll!")
